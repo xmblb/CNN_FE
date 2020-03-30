@@ -1,0 +1,6 @@
+1. The codes can be used for academic purpose only. Please cite our paper in any publication
+that reports research using this codes and data.
+
+Fang, Z., Wang, Y., Peng, L., Hong, H., 2020. Integration of convolutional 
+neural network and conventional machine learning classifiers for landslide
+ susceptibility mapping. Computers & Geosciences, 139, 104470.
